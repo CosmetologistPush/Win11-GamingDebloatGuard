@@ -159,3 +159,4 @@ Yes, it supports Windows 10 (21H2/22H2) and Windows 11 (22H2/23H2/24H2+).
  
  
  
+ 
